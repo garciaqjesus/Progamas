@@ -1,4 +1,4 @@
 # Progamas
 Programas Recomendados Para Instalar
 
-Hey este es un simple lista recomendado de mi parte para mi uso en la parte tecnologica
+Hey, este es una simple lista de progmas recomendados para tu PC como progamador.
